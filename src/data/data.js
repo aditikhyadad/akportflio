@@ -42,7 +42,7 @@ export const data=[
         name:"IRCA App using Angular",
         image:IRCA,
         github:"https://github.com/aditikhyadad/resume/tree/main/IRCA",
-        live:"https://aditikhyadad.github.io/resume/",
+        live:"https://aditikhyadad.github.io/WebTech/",
     },
     {
         id:5,
