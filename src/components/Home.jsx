@@ -12,7 +12,6 @@ const Home = () => {
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
-
       }}
     >
       {/* Container */}
@@ -26,13 +25,9 @@ const Home = () => {
           Engineering Student.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          Currently in my third year at KLE Technological University, 
-          I am pursuing a degree in Computer Science Engineering. 
-          Driven by a relentless desire for growth, 
-          I am dedicated to refining my skills and embracing new challenges on this 
-          academic journey. Eager to contribute meaningfully to the dynamic 
-          field of computer science, 
-          I am fueled by curiosity and a steadfast commitment to excellence.
+        Welcome! I am a fourth-year Computer Science 
+        student with a passion for coding, art, and photography. 
+        Explore my journey of merging logic with creativity.
         </p>
       </div>
     </div>

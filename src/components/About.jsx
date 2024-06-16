@@ -17,16 +17,17 @@ const About = () => {
               <p>Hi! My name is Aditi Khyadad, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>As a fourth-year engineering student majoring in Computer Science, 
-                I bring both technical expertise and creative flair to every project. 
-                Beyond coding, I'm passionate about art. 
-                From drawing to crafting designs, my creativity knows no limits. 
-                Photography is my way of expressing and capturing life's moments, 
-                while poster making helps me visually communicate ideas. Whether coding or painting, 
-                I love merging logic with imagination. My portfolio showcases not just academic achievements 
-                but also my diverse talents. I'm driven by innovation and excellence. 
-                Ready for the next step, I aim to use my skills to make
-                 meaningful contributions to the tech and design fields.</p>  
+              <p>I am a fourth-year Computer Science engineering student who brings 
+                technical expertise and creative flair to every project. 
+                Beyond coding, my passion for art encompasses drawing and crafting intricate designs. 
+                Photography allows me to capture and express life's moments, 
+                while poster making enables me to visually communicate powerful ideas. 
+                Whether coding or painting, I thrive on merging logic with creativity. 
+                My portfolio highlights not only my academic accomplishments 
+                but also my diverse talents. Driven by innovation and excellence, 
+                I aim to use my skills to make meaningful contributions in both 
+                the tech and design sectors.
+              </p>  
             </div>
           </div>
       </div>
