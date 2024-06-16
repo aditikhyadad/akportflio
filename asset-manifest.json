@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/akportflio/static/css/main.4b1d9c3e.css",
+    "main.js": "/akportflio/static/js/main.6427fb51.js",
+    "static/media/IRCA.png": "/akportflio/static/media/IRCA.389fbdf9f3cec0632ae5.png",
+    "static/media/Minor_Proj.png": "/akportflio/static/media/Minor_Proj.0d77fb6a1472f9f115da.png",
+    "static/media/ML.png": "/akportflio/static/media/ML.9fd41aecbcedefeeab24.png",
+    "static/media/Mini_Proj.png": "/akportflio/static/media/Mini_Proj.dd4de0aa35abaf2fd245.png",
+    "static/media/Imgportfolio.png": "/akportflio/static/media/Imgportfolio.bfeab270b51928dc76dc.png",
+    "static/media/react.png": "/akportflio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/akportflio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/c.png": "/akportflio/static/media/c.ccf82eed40ec39ff570c.png",
+    "static/media/SearchEngine.png": "/akportflio/static/media/SearchEngine.8c10f3ab68477e4bedb6.png",
+    "static/media/mongo.png": "/akportflio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/python.png": "/akportflio/static/media/python.07a98139a3638f2a224b.png",
+    "static/media/c++.png": "/akportflio/static/media/c++.24a8f93854ab092f17a7.png",
+    "static/media/background.png": "/akportflio/static/media/background.da4724ecdcdc4b987817.png",
+    "static/media/java.png": "/akportflio/static/media/java.b7a2f6415cec10cee413.png",
+    "static/media/html.png": "/akportflio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/akportflio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/sql.png": "/akportflio/static/media/sql.aec5412b1d55c8c88d37.png",
+    "static/media/Background2.png": "/akportflio/static/media/Background2.5948e45cc97587bed963.png",
+    "static/media/javascript.png": "/akportflio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/akportflio/index.html",
+    "main.4b1d9c3e.css.map": "/akportflio/static/css/main.4b1d9c3e.css.map",
+    "main.6427fb51.js.map": "/akportflio/static/js/main.6427fb51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1d9c3e.css",
+    "static/js/main.6427fb51.js"
+  ]
+}
